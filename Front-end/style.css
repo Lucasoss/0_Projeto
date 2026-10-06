@@ -4,6 +4,7 @@
     align-items: center;
     font-size: 0.9rem;
     color: var(--azul-claro);
+    justify-content: space-between;
     flex-wrap: wrap;
     background-color: rgba(43, 116, 252, 0.822);
     padding: 12px 16px;
